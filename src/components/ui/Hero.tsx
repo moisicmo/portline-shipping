@@ -6,7 +6,7 @@ export const Hero = component$(() => {
   return (
 <section
   class="relative bg-cover bg-center before:absolute before:inset-0 before:bg-gradient-to-r before:from-black/70 before:to-black/30 before:z-0 overflow-hidden"
-  style={{ backgroundImage: 'url(/src/assets/images/containers.gif)' }}
+  style={{ backgroundImage: 'url(/images/containers.gif)' }}
 >
   <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32 lg:py-44 grid md:grid-cols-2 gap-8 items-center">
     <div>
